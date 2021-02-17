@@ -7,3 +7,6 @@ Awesome Archives of Synthetic Asset Protocols
 ## Synthetic Asset Mining 
 - https://medium.com/perlin-network/perlinx-uma-synthetic-pxasset-minting-d53fc6633bd6
 
+## Synthetic Yields
+- https://medium.com/renproject/announcing-the-yield-dollar-with-uma-and-renbtc-859278cce3a2
+
