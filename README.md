@@ -9,4 +9,5 @@ Awesome Archives of Synthetic Asset Protocols
 
 ## Synthetic Yields
 - https://medium.com/renproject/announcing-the-yield-dollar-with-uma-and-renbtc-859278cce3a2
+- https://medium.com/uma-project/the-yield-dollar-on-uma-3a492e79069f
 
